@@ -144,7 +144,7 @@ let dontSort = [],
         medium: require("./Medium/Young Rohan - Medium.jpg"),
         large: require("./Large/Young Rohan - Large.jpg")
       },
-      year: "201?",
+      year: null,
       format: "35mmPortrait",
       ratio: [2, 3],
       people: [{
