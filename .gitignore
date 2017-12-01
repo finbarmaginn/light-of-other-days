@@ -6,5 +6,7 @@ public/appcache
 public/images
 public/*.js
 public/*.json
+src/imgs/finalImages/Large/*.jpg
+src/imgs/finalImages/Medium/*.jpg
 _offline_serviceworker
 *.stackdump
