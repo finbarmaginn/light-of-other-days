@@ -3,6 +3,6 @@ Pure client side PWA
 
 This application is an ongoing learning process and continuing to evolve.
 
-This VCS is chosen out of ease of use.
+This project is a bit of a mess but that's ok.
 
-the images of the artist's work have been removed
+The images of the artist's work have been removed.
