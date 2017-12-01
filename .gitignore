@@ -5,6 +5,7 @@ node_modules
 public/appcache
 public/images
 public/*.js
+public/*.php
 public/*.json
 src/imgs/finalImages/Large/*.jpg
 src/imgs/finalImages/Medium/*.jpg
