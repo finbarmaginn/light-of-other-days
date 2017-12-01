@@ -1,5 +1,10 @@
-/src/imgs/finalImages/Large/*.jpg
-/src/imgs/finalImages/Medium/*.jpg
-/public/
-/*.log
-/node_modules/
+src/imgs/finalImages/Large/*.jpg
+src/imgs/finalImages/Medium/*.jpg
+*.log
+node_modules
+public/appcache
+public/images
+public/*.js
+public/*.json
+_offline_serviceworker
+*.stackdump
