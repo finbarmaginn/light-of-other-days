@@ -1,0 +1,5 @@
+/src/imgs/finalImages/Large/*.jpg
+/src/imgs/finalImages/Medium/*.jpg
+/public/
+/*.log
+/node_modules/
