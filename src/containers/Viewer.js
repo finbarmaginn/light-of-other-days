@@ -80,7 +80,7 @@ class Viewer extends React.Component {
         <div className="viewer" onClick={this.closeImage.bind(this)}>
           <div className="wrap">
             <button>X</button>
-            <div className="capContain" style={{maxWidth:width}}>
+            <div className="capContain" style={{maxWidth:width,padding:"0 25px"}}>
               <h4>{capToRender}<span>{imageYear}</span></h4>
               <img
                 src={imageSrc}
