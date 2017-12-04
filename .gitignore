@@ -2,7 +2,6 @@
 node_modules
 node_modules
 public/appcache
-public/images
 public/*.js
 public/*.php
 public/*.json
