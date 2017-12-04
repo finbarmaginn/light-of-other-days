@@ -621,9 +621,9 @@ div {
     div.capContain {
       margin: 0 auto;
       overflow: hidden;
-      text-overflow: "...";
-      white-space: nowrap;
       h4 {
+        white-space: nowrap;
+        text-overflow: ellipsis;
         background: #1d1d1d;
         text-align: left;
         margin: 5px 0 0;

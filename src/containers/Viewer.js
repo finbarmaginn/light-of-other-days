@@ -71,6 +71,7 @@ class Viewer extends React.Component {
             <div className="capContain" style={{maxWidth:width,padding: "0 35px"}}>
               <h4>
                 {imageCap}
+                
                 <span>{imageYear}</span>
               </h4>
               <img
