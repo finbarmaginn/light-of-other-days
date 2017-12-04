@@ -1,5 +1,3 @@
-src/imgs/finalImages/Large/*.jpg
-src/imgs/finalImages/Medium/*.jpg
 *.log
 node_modules
 public/appcache
@@ -8,8 +6,4 @@ public/*.js
 public/*.php
 public/*.json
 public/__offline_serviceworker
-src/imgs/finalImages/Large/*.jpg
-src/imgs/finalImages/Medium/*.jpg
-_offline_serviceworker
 *.stackdump
-.idea
