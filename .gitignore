@@ -5,6 +5,7 @@ public/appcache
 public/*.js
 public/*.php
 public/*.json
+public/images
 public/__offline_serviceworker
 src/imgs/finalImages/Large/*.jpg
 src/imgs/finalImages/Medium/*.jpg
